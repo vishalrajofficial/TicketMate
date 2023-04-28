@@ -1,7 +1,7 @@
 ## Summary
 A Full Stack Website project for selling/buying tickets using microservices, MERN stack, Redis and automated CI/CD Github Actions. The app is deployed on DigitalOcean using kubernetes.
 
-![alt text](https://github.com/Giats2498/giats-tickets/blob/master/Map.PNG)
+![alt text](https://github.com/vishalrajofficial/TicketMate/blob/master/Map.PNG)
 
 ## Table of Contents
 - [Run on DigitalOcean](#run-on-digitalocean)
